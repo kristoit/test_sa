@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Edit string: Test 5 
+#Edit string: Test 6 
 
 git add .
 
